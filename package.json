@@ -1,0 +1,12 @@
+{
+  "name": "circleci-hue",
+  "description": "hue connctor for circle ci",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "request": "~2.33.0",
+    "dotenv": "~0.2.4",
+    "coffee-script": "~1.7.1",
+    "node-hue-api": "~0.2.2"
+  }
+}
